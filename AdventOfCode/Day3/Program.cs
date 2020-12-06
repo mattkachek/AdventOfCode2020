@@ -74,7 +74,7 @@ namespace AdventOfCode.Day3
 
         private List<string> GetInput()
         {
-            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode\AdventOfCode\Day3\Input.txt";
+            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode2020\AdventOfCode\Day3\Input.txt";
             List<string> values = new List<string>();
 
             using (StreamReader sr = File.OpenText(filePath))

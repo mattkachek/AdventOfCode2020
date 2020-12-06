@@ -33,7 +33,7 @@ namespace AdventOfCode.Day1
 
         public string SolveFor2()
         {
-            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode\AdventOfCode\Day1\Input.txt";
+            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode2020\AdventOfCode\Day1\Input.txt";
             List<int> values = new List<int>();
 
             if (!File.Exists(filePath))

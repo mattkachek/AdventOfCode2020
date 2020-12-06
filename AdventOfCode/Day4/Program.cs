@@ -107,7 +107,7 @@ namespace AdventOfCode.Day4
 
         private List<string> GetInput()
         {
-            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode\AdventOfCode\Day4\Input.txt";
+            var filePath = @"C:\Users\mkach\source\repos\AdventOfCode2020\AdventOfCode\Day4\Input.txt";
             string fullInput = "";
             List<string> values = new List<string>();
 
