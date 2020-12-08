@@ -43,6 +43,10 @@ namespace AdventOfCode
                     var Day7 = new Day7.Program();
                     Day7.Select();
                     break;
+                case "8":
+                    var Day8 = new Day8.Program();
+                    Day8.Select();
+                    break;
 
                 default:
                     Console.WriteLine("Default Case");
