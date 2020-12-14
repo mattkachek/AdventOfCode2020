@@ -67,6 +67,10 @@ namespace AdventOfCode
                     var Day13 = new Day13.Program();
                     Day13.Select();
                     break;
+                case "14":
+                    var Day14 = new Day14.Program();
+                    Day14.Select();
+                    break;
 
                 default:
                     Console.WriteLine("Default Case");
