@@ -51,6 +51,7 @@
     <Compile Include="Day15\Program.cs" />
     <Compile Include="Day16\Program.cs" />
     <Compile Include="Day17\Program.cs" />
+    <Compile Include="Day18\Program.cs" />
     <Compile Include="Day1\Program.cs" />
     <Compile Include="Day2\Program.cs" />
     <Compile Include="Day3\Program.cs" />
@@ -74,6 +75,7 @@
     <Content Include="Day15\Input.txt" />
     <Content Include="Day16\Input.txt" />
     <Content Include="Day17\Input.txt" />
+    <Content Include="Day18\Input.txt" />
     <Content Include="Day1\Input.txt" />
     <Content Include="Day2\Input.txt" />
     <Content Include="Day3\Input.txt" />
